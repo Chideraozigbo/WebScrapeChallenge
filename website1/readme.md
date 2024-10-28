@@ -20,8 +20,9 @@ Ensure the following Python libraries are installed:
 - `openpyxl` - For saving data to Excel files (if required).
 
 Install the required libraries using the following command:
-```bash
+``` bash
 pip install requests beautifulsoup4 pandas openpyxl
+```
 
 ## Additional Requirements
 
@@ -30,26 +31,30 @@ pip install requests beautifulsoup4 pandas openpyxl
 
 ## Project Structure
 The project has the following structure:
-
+``` bash
 Webscraping Project/
 ├── website1/
-│   ├── scrap.py                # Main script for scraping the e-commerce website
-│   └── data/                   # Folder to save extracted data (e.g., CSV files)
+│   ├── scrap.py 
+│   └── data/ 
 ├── README.md                   # Project documentation
 └── requirements.txt            # List of dependencies
-
+```
 ## Setup and Usage
 ### Clone the Repository
 First, clone the repository to your local machine:
 
-``` bash git https://github.com/Chideraozigbo/WebScrapeChallenge.git
-cd Webscraping Project ```
+``` bash
+git clone https://github.com/Chideraozigbo/WebScrapeChallenge.git cd Webscraping Project 
+```
+
 
 ### Run the Script
 Navigate to the project directory and run the `scrap.py` script:
 
-``` python python website1/scrap.py
+``` python 
+python website1/scrap.py 
 ```
+
 
 ### Output
 The script will:
