@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 import pandas as pd
+import re 
 
 
 #%%
@@ -166,48 +167,44 @@ def extract_ratings(box):
     Returns:
         str or None: The rating value as a string if found, or None if not found.
     """
-    log_message('{time_str} - Extracting rating from div element')
-    rating_div = box.find('div', class_='ratings')
-    if rating_div:
-        # Find the p element with data-rating attribute
-        rating_p = rating_div.find('p', {'data-rating': True})
-        if rating_p:
-            ratings = rating_p.get('data-rating')
-            log_message(f'{time_str} - Product rating: {ratings}')
-            return ratings
-        else:
-            log_message('{time_str} - Product rating: Not found')
-            return None
-    else:
-        log_message('{time_str} - Product rating div: Not found')
-        return None
+    log_message(f'{time_str} - Extracting ratings from products')
+    ratings = []
+    rating_elements = box.find_all('p', {'data-rating': True})
+    
+    for rating_element in rating_elements:
+        rating = rating_element.get('data-rating')
+        ratings.append(rating)
+        log_message(f'{time_str} - Product rating: {rating}')
+    
+    return ratings
+           
 #%%    
 def extract_reviews(box):
     """
-    Extracts the number of reviews from a BeautifulSoup object containing HTML elements.
+    Extracts the rating from a BeautifulSoup object containing HTML elements.
 
-    This function searches for a 'p' element with class 'review-count float-end' within the given
-    BeautifulSoup object. If found, it extracts the number of reviews from the text content.
+    This function searches for a 'div' element with class 'ratings' within the given
+    BeautifulSoup object, then looks for a 'p' element with a 'data-rating' attribute.
+    If found, it extracts and returns the rating value.
 
     Args:
         box (BeautifulSoup): A BeautifulSoup object containing HTML elements
-                             from which to extract the number of reviews.
+                             from which to extract the rating.
 
     Returns:
-        str or None: The number of reviews as a string if found, or None if not found.
-                     The returned string contains only the digits from the review count.
+        str or None: The rating value as a string if found, or None if not found.
     """
-    log_message('{time_str} - Extracting reviews from div element')
-    reviews_div = box.find('p', class_='review-count float-end')
-    if reviews_div:
-        # Extract number of reviews from the text
-        reviews_text = reviews_div.text.strip()
-        reviews = ''.join(filter(str.isdigit, reviews_text))  # Extract digits only
-        log_message(f'{time_str} - Product reviews: {reviews}')
-        return reviews
-    else:
-        log_message('{time_str} - Product reviews: Not found')
-        return None
+    log_message(f'{time_str} - Extracting reviews from products')
+    reviews = []
+    review_elements = box.find_all('p', class_='review-count float-end')
+    
+    for review_element in review_elements:
+        review_count = ''.join(filter(str.isdigit, review_element.text.strip()))
+        reviews.append(review_count)
+        log_message(f'{time_str} - Product reviews: {review_count}')
+    
+    return reviews
+        
 #%%    
 def join(product_names, product_prices, product_descriptions, ratings, reviews):
     log_message(f'{time_str} - Creating a DataFrame from extracted data')
@@ -236,11 +233,19 @@ def main():
             product_names = extract_product_names(box)
             product_prices = extract_product_prices(box)
             product_descriptions = extract_product_descriptions(box)
-            ratings = [extract_ratings(box) for _ in product_names]
-            reviews = [extract_reviews(box) for _ in product_names]
-            df = join(product_names, product_prices, product_descriptions, ratings, reviews)
-            load_to_csv(df, filename)
-            log_message(f'{time_str} - Data fetching and processing completed successfully')
+            ratings = extract_ratings(box)
+            reviews = extract_reviews(box)
+
+            # Verify all lists have the same length
+            if len(product_names) == len(product_prices) == len(product_descriptions) == len(ratings) == len(reviews):
+                df = join(product_names, product_prices, product_descriptions, ratings, reviews)
+                load_to_csv(df, filename)
+                log_message(f'{time_str} - Data fetching and processing completed successfully')
+            else:
+                log_message(f'{time_str} - Error: Mismatched number of elements extracted')
+                log_message(f'Products: {len(product_names)}, Prices: {len(product_prices)}, ' 
+                          f'Descriptions: {len(product_descriptions)}, Ratings: {len(ratings)}, '
+                          f'Reviews: {len(reviews)}')
         else:
             log_message(f'{time_str} - Failed to fetch data from URL: {url}')
         log_message(f'{time_str} - Program completed and terminated')
