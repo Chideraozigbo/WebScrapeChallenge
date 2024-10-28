@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import time
 import pandas as pd
-import openpyxl
+
 
 #%%
 # Constants for the website to scrape and logging
@@ -16,7 +16,7 @@ retry_delay = 5  # seconds
 time_format = '%Y-%m-%d %H:%M:%S'
 now = datetime.now()
 time_str = now.strftime(time_format)
-filename = f'website1/data_{time_str}.xlsx'
+filename = f'/Users/user/Documents/Webscraping Project/website1/data_{time_str}.csv'
 
 #%%
 # Clear previous log content
@@ -221,10 +221,12 @@ def join(product_names, product_prices, product_descriptions, ratings, reviews):
     log_message(f'{time_str} - DataFrame created')
     return df
 #%%
-def load_to_excel(df, filename):
+def load_to_csv(df, filename):
     log_message(f'{time_str} - Saving DataFrame to CSV file: {filename}')
-    df.to_excel(filename, index=False, engine='openpyxl')
-    log_message(f'{time_str} - DataFrame saved to CSV file: {filename}')
+    # with pd.ExcelWriter(filename, mode='w') as writer:
+    #     df.to_excel(writer, index=False, sheet_name='Products')
+    df.to_csv(filename, index=False)
+    log_message(f'{time_str} - DataFrame saved to csv file: {filename}')
     
 #%%
 def main():
@@ -237,7 +239,7 @@ def main():
             ratings = [extract_ratings(box) for _ in product_names]
             reviews = [extract_reviews(box) for _ in product_names]
             df = join(product_names, product_prices, product_descriptions, ratings, reviews)
-            load_to_excel(df, filename)
+            load_to_csv(df, filename)
             log_message(f'{time_str} - Data fetching and processing completed successfully')
         else:
             log_message(f'{time_str} - Failed to fetch data from URL: {url}')

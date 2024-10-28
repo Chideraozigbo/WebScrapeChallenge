@@ -1,830 +1,831 @@
-2024-10-28 11:06:44 - Log cleared
-2024-10-28 11:06:44 - Starting data fetch from URL: https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Successfully connected to URL: https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Extracting product names from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Prestigio Smar...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Prestigio Smar...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Aspire E1-510
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V110-15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V110-15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Hewlett Packar...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire A3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo ThinkPa...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V110-15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Packard 255 G2
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus EeeBook R...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Extensa 1...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V110-15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire A3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V110-15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V510 Bl...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire ES...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V510 Bl...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Swift 1 S...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Vostro 15
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 3...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Vostro 15...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo V510 Bl...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: HP 250 G3
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Spin 5
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: HP 350 G1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Aspire E1-572G
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Pavilion
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire A5...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Inspiron...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ProBook
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Inspiron 15
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG STRIX...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Nitro 5 A...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG STRIX...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo ThinkPa...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ThinkPad Yoga
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo ThinkPa...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Inspiron...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GL72M 7RDX
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GL72M 7RDX
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Legion...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Toshiba Porteg...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Predator...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Aspire 7...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Inspiron...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Legion...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus AsusPro A...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Nitro 5 A...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Inspiron...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Legion...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GP62M 7RDX...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Yoga 72...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Toshiba Porteg...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer TravelMat...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ThinkPad T540p
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GS63 7RD S...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Predator...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GL62M 7REX
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GL62M 7REX...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Yoga 91...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Toshiba Porteg...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo IdeaPad...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Acer Predator...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ThinkPad Yoga
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus VivoBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ZenBook U...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ThinkPad X230
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Apple MacBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Hewlett Packar...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell XPS 13
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Toshiba Porteg...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: MSI GL62VR 7RF...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: ThinkPad X240
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Hewlett Packar...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Apple MacBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Dell Latitude...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Apple MacBook...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo ThinkPa...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo ThinkPa...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Toshiba Porteg...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ASUSPRO B...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Lenovo Legion...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product name: Asus ROG Strix...
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Extracting product prices from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $295.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $299
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $299
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $306.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $321.94
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $356.49
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $364.46
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $372.7
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $379.94
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $379.95
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $391.48
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $393.88
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $399
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $399.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $404.23
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $408.98
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $409.63
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $410.46
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $410.66
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $416.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $433.3
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $436.29
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $436.29
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $439.73
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $454.62
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $454.73
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $457.38
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $465.95
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $468.56
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $469.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $484.23
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $485.9
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $487.8
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $488.64
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $488.78
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $494.71
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $497.17
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $498.23
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $520.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $564.98
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $577.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $581.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $609.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $679
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $679
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $729
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $739.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $745.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $799
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $809
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $899
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $999
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1033.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1096.02
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1098.42
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1099
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1099
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1101.83
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1102.66
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1110.14
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1112.91
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1114.55
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1123.87
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1123.87
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1124.2
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1133.82
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1133.91
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1139.54
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1140.62
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1143.4
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1144.2
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1144.4
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1149
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1149
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1149.73
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1154.04
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1170.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1178.19
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1178.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1179
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1187.88
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1187.98
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1199
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1199
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1199.73
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1203.41
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1212.16
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1221.58
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1223.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1235.49
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1238.37
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1239.2
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1244.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1259
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1260.13
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1271.06
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1273.11
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1281.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1294.74
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1299
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1310.39
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1311.99
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1326.83
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1333
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1337.28
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1338.37
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1341.22
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1347.78
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1349.23
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1362.24
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1366.32
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1381.13
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1399
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1399
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1769
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1769
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product price: $1799
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Extracting product descriptions from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook X441NA-GA190 Chocolate Black, 14", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Prestigio SmartBook 133S Dark Grey, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Prestigio SmartBook 133S Gold, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Pentium N3520 2.16GHz, 4GB, 500GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V110-15IAP, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Hewlett Packard 250 G6 Dark Ash Silver, 15.6" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire A315-31-C33J Black 15.6", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-21, 15.6", AMD A4-9120. 4GB. 128GB SSD, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook E502NA-GO022T Dark Blue, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo ThinkPad E31-80, 13.3" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-732 Black, 17.3" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus EeeBook R416NA-FA014T, 14" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-51, 15.6" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Extensa 15 (2540) Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire A315-51-33TG, Black 15.6" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V110-15IKB, 15.6" HD, Core i5-7200U, 4GB, 500GB, DOS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V510 Black, 14" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 128GB SSD, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V510 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Swift 1 SF113-31 Silver, 13.3" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Vostro 15 (3568) Black, 15.6" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 3 A315-51 Black, 15.6" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Vostro 15 (3568) Red, 15.6" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo V510 Black, 15.6" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Core i5-4210U, 4GB, 500GB, Windows 8.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Spin 5 SP513-51 Black, 13.3" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Core i5-4200U, 6GB, 750GB, Windows 8.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire A515-51-5654, Black, 15.6", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Inspiron 15 (5567) Fog Gray, 15.6" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 14", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Moon Silver, 15.6", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo ThinkPad L570, 15.6" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 12.5" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo ThinkPad L460, 14" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GL72M 7RDX, 17.3" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix GL553VD-DM535T, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Apple MacBook Air 13.3", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5280, 12.5" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Legion Y520-15IKBM, Black, 15.6" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Toshiba Portege Z30-C-16J Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Aspire 7 A715-71G, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Inspiron 17 2in1 (7779) Silver, 17.3" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Legion Y520, 15.6" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Legion Y520-15IKBM, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GP62M 7RDX Leopard, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Yoga 720 Grey, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Toshiba Portege Z30-C-16L Grey, 13.3" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer TravelMate P645-S-511A Black, 14" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 15.6", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GS63 7RD Stealth, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GL62M 7REX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GL62M 7REX2, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Yoga 910 Grey, 13.9" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Toshiba Portege X30-D-10J Black/Blue, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo IdeaPad Miix 510 Platinum Silver, 12.2" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 12.5" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ZenBook UX530UX-FY040T Blue, 15.6" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 12.5", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix GL753VE-GC096T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Apple MacBook Air 13", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 13.3" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Toshiba Portege Z30-C-16K Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: MSI GL62VR 7RFX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: 12.5", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Hewlett Packard ProBook 640 G3, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Apple MacBook Pro 13" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Apple MacBook Air 13", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo ThinkPad T470, 14" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo ThinkPad Yoga 370 Black, 13.3" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Toshiba Portege X20W-D-10V Black/Blue, 12.5" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ASUSPRO B9440UA-GV0279R Gray, 14" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Lenovo Legion Y720, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix GL702VM-GC146T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix GL702ZC-GC154T, 17.3" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix GL702ZC-GC209T, 17.3" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product description: Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting rating from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product rating: 3
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - {time_str} - Extracting reviews from div element
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Product reviews: 14
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Creating a DataFrame from extracted data
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - DataFrame created
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Saving DataFrame to CSV file: website1/data_2024-10-28 11:06:44.xlsx
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - An error occurred: No module named 'openpyxl'
-2024-10-28 11:06:44 - 2024-10-28 11:06:44 - Program terminated
+2024-10-28 11:52:47 - Log cleared
+2024-10-28 11:52:47 - Starting data fetch from URL: https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Successfully connected to URL: https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Extracting product names from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Prestigio Smar...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Prestigio Smar...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Aspire E1-510
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V110-15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V110-15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Hewlett Packar...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire A3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo ThinkPa...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V110-15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Packard 255 G2
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus EeeBook R...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Extensa 1...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V110-15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire A3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V110-15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V510 Bl...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire ES...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V510 Bl...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Swift 1 S...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Vostro 15
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 3...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Vostro 15...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo V510 Bl...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: HP 250 G3
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Spin 5
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: HP 350 G1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Aspire E1-572G
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Pavilion
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire A5...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Inspiron...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ProBook
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Inspiron 15
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG STRIX...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Nitro 5 A...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG STRIX...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo ThinkPa...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ThinkPad Yoga
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo ThinkPa...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Inspiron...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GL72M 7RDX
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GL72M 7RDX
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Legion...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Toshiba Porteg...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Predator...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Aspire 7...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Inspiron...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Legion...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus AsusPro A...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Nitro 5 A...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Inspiron...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Legion...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GP62M 7RDX...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Yoga 72...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Toshiba Porteg...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer TravelMat...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ThinkPad T540p
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GS63 7RD S...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Predator...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GL62M 7REX
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GL62M 7REX...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Yoga 91...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Toshiba Porteg...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo IdeaPad...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Acer Predator...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ThinkPad Yoga
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus VivoBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ZenBook U...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ThinkPad X230
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Apple MacBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Hewlett Packar...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell XPS 13
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Toshiba Porteg...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: MSI GL62VR 7RF...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: ThinkPad X240
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Hewlett Packar...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Apple MacBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Dell Latitude...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Apple MacBook...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo ThinkPa...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo ThinkPa...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Toshiba Porteg...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ASUSPRO B...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Lenovo Legion...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product name: Asus ROG Strix...
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Extracting product prices from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $295.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $299
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $299
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $306.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $321.94
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $356.49
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $364.46
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $372.7
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $379.94
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $379.95
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $391.48
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $393.88
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $399
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $399.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $404.23
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $408.98
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $409.63
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $410.46
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $410.66
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $416.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $433.3
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $436.29
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $436.29
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $439.73
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $454.62
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $454.73
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $457.38
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $465.95
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $468.56
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $469.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $484.23
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $485.9
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $487.8
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $488.64
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $488.78
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $494.71
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $497.17
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $498.23
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $520.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $564.98
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $577.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $581.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $609.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $679
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $679
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $729
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $739.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $745.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $799
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $809
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $899
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $999
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1033.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1096.02
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1098.42
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1099
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1099
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1101.83
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1102.66
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1110.14
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1112.91
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1114.55
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1123.87
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1123.87
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1124.2
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1133.82
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1133.91
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1139.54
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1140.62
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1143.4
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1144.2
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1144.4
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1149
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1149
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1149.73
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1154.04
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1170.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1178.19
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1178.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1179
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1187.88
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1187.98
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1199
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1199
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1199.73
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1203.41
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1212.16
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1221.58
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1223.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1235.49
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1238.37
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1239.2
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1244.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1259
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1260.13
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1271.06
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1273.11
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1281.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1294.74
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1299
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1310.39
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1311.99
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1326.83
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1333
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1337.28
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1338.37
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1341.22
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1347.78
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1349.23
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1362.24
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1366.32
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1381.13
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1399
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1399
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1769
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1769
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product price: $1799
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Extracting product descriptions from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook X441NA-GA190 Chocolate Black, 14", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Prestigio SmartBook 133S Dark Grey, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Prestigio SmartBook 133S Gold, 13.3" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Pentium N3520 2.16GHz, 4GB, 500GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V110-15IAP, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Hewlett Packard 250 G6 Dark Ash Silver, 15.6" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire A315-31-C33J Black 15.6", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-21, 15.6", AMD A4-9120. 4GB. 128GB SSD, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook E502NA-GO022T Dark Blue, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo ThinkPad E31-80, 13.3" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-31 Black, 15.6" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-732 Black, 17.3" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus EeeBook R416NA-FA014T, 14" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-51, 15.6" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Extensa 15 (2540) Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 500GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V110-15ISK, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire A315-51-33TG, Black 15.6" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V110-15IKB, 15.6" HD, Core i5-7200U, 4GB, 500GB, DOS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V510 Black, 14" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire ES1-572 Black, 15.6" HD, Core i5-7200U, 4GB, 128GB SSD, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V510 Black, 15.6" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Swift 1 SF113-31 Silver, 13.3" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Vostro 15 (3568) Black, 15.6" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 3 A315-51 Black, 15.6" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Vostro 15 (3568) Red, 15.6" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo V510 Black, 15.6" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Core i5-4210U, 4GB, 500GB, Windows 8.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Spin 5 SP513-51 Black, 13.3" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Core i5-4200U, 6GB, 750GB, Windows 8.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire A515-51-5654, Black, 15.6", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Inspiron 15 (5567) Fog Gray, 15.6" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 14", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Moon Silver, 15.6", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG STRIX GL553VD-DM256, 15.6" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo ThinkPad L570, 15.6" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 12.5" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo ThinkPad L460, 14" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GL72M 7RDX, 17.3" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix GL553VD-DM535T, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Apple MacBook Air 13.3", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5280, 12.5" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Legion Y520-15IKBM, Black, 15.6" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Toshiba Portege Z30-C-16J Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Aspire 7 A715-71G, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Inspiron 17 2in1 (7779) Silver, 17.3" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Legion Y520, 15.6" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Nitro 5 AN515-51, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Inspiron 15 (7567) Black, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Legion Y520-15IKBM, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GP62M 7RDX Leopard, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Yoga 720 Grey, 15.6" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Toshiba Portege Z30-C-16L Grey, 13.3" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer TravelMate P645-S-511A Black, 14" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5580, 15.6" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 15.6", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GS63 7RD Stealth, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GL62M 7REX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GL62M 7REX2, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Yoga 910 Grey, 13.9" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Toshiba Portege X30-D-10J Black/Blue, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo IdeaPad Miix 510 Platinum Silver, 12.2" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Acer Predator Helios 300 (PH317-51), 17.3" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 12.5" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ZenBook UX530UX-FY040T Blue, 15.6" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 12.5", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix GL753VE-GC096T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Apple MacBook Air 13", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 13.3" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Toshiba Portege Z30-C-16K Grey, 13.3" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: MSI GL62VR 7RFX, 15.6" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: 12.5", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Hewlett Packard ProBook 640 G3, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Apple MacBook Pro 13" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5480, 14" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Dell Latitude 5580, 15.6" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Apple MacBook Air 13", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo ThinkPad T470, 14" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo ThinkPad Yoga 370 Black, 13.3" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Toshiba Portege X20W-D-10V Black/Blue, 12.5" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ASUSPRO B9440UA-GV0279R Gray, 14" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Lenovo Legion Y720, 15.6" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix GL702VM-GC146T, 17.3" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix GL702ZC-GC154T, 17.3" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix GL702ZC-GC209T, 17.3" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product description: Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting rating from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product rating: 3
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - {time_str} - Extracting reviews from div element
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Product reviews: 14
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Creating a DataFrame from extracted data
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - DataFrame created
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Saving DataFrame to CSV file: /Users/user/Documents/Webscraping Project/website1/data_2024-10-28 11:52:47.csv
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - DataFrame saved to csv file: /Users/user/Documents/Webscraping Project/website1/data_2024-10-28 11:52:47.csv
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Data fetching and processing completed successfully
+2024-10-28 11:52:47 - 2024-10-28 11:52:47 - Program completed and terminated
