@@ -36,6 +36,11 @@ Webscraping Project/
 ├── website1/
 │   ├── scrap.py 
 │   └── data/ 
+│       └── products.csv 
+├── website2/
+│   ├── scrap.py 
+│   └── data/ 
+│       └── products.csv
 ├── README.md                   # Project documentation
 └── requirements.txt            # List of dependencies
 ```
@@ -59,12 +64,12 @@ python website1/scrap.py
 ### Output
 The script will:
 
-1. Access the e-commerce webpage.
+1. Access the e-commerce webpage for all products in a category.
 2. Extract product details like name, price, rating, and review count.
 3. Save the data as a CSV file in the data folder.
 
 ## Logging
-Throughout the extraction process, log messages are generated to track key actions and events, such as the beginning and completion of each extraction phase. Logs provide insight into any data points that may not be found, helping to monitor the script’s accuracy and performance.
+Log messages are generated throughout the extraction process to track key actions and events, including the start and completion of each extraction phase. Logs provide insights into any missing data points, aiding in monitoring the script’s accuracy and performance.
 
 ## Notes
 - Error Handling: The script is designed to handle missing data gracefully, logging any missing information for further inspection.
