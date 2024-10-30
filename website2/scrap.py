@@ -9,15 +9,13 @@ import re
 
 #%%
 # Constants for the website to scrape and logging
-log_file = "/Users/user/Documents/Webscraping Project/website1/web_scraper_log.txt"
+log_file = "/Users/user/Documents/Webscraping Project/website2/web_scrap_log.txt"
 time_format = '%Y-%m-%d %H:%M:%S'
 url = 'https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops'
-max_retries = 3
-retry_delay = 5  # seconds
 time_format = '%Y-%m-%d %H:%M:%S'
 now = datetime.now()
 time_str = now.strftime(time_format)
-filename = f'/Users/user/Documents/Webscraping Project/website1/data/data_{time_str}.csv'
+filename = f'/Users/user/Documents/Webscraping Project/website2/data/data_{time_str}.csv'
 
 #%%
 # Clear previous log content
@@ -34,52 +32,34 @@ def log_message(message):
     with open(log_file, 'a') as f:
         f.write(f'{time_str} - {message}\n')
 #%%
-def extract(url):
+
+def extract_data_from_pages(url):
     """
-    Attempts to fetch and extract data from a given URL with retry mechanism.
+    This function connects to a specified URL, retrieves the HTML content, and extracts the relevant data.
+    It iterates through a range of page numbers to scrape multiple pages.
 
-    This function tries to connect to the specified URL, fetch the HTML content,
-    and extract a specific div element. It includes error handling and a retry
-    mechanism for failed attempts.
-
-    Args:
-        url (str): The URL to fetch data from.
+    Parameters:
+    url (str): The base URL of the website to scrape.
 
     Returns:
-        BeautifulSoup object or None: Returns a BeautifulSoup object containing
-        the extracted div element if successful, or None if all attempts fail.
-
-    Raises:
-        No exceptions are raised as they are caught and logged internally.
+    BeautifulSoup: A BeautifulSoup object containing the HTML elements of the extracted data.
+                   Returns None if unable to connect to any page.
     """
-    log_message(f'Starting data fetch from URL: {url}')
-    retries = 0
+    for i in range(1, 21):
+        url_with_page_number = f'{url}?page={i}'
+        response = requests.get(url_with_page_number)
+        if response.status_code == 200:
+            log_message(f'{time_str} - Successfully connected to URL: {url}')
+            soup = BeautifulSoup(response.text, 'lxml')
+            boxes = soup.find('div', class_='col-lg-9')
+            log_message(f'Scraping page {i} from {url_with_page_number}')
+            return boxes
+        else:
+            log_message(f'Failed to connect to URL: {url}')
+            break
+        
 
-    while retries < max_retries:
-        try:
-            response = requests.get(url)
-            if response.status_code == 200:
-                log_message(f'{time_str} - Successfully connected to URL: {url}')
-                soup = BeautifulSoup(response.text, 'lxml')
-                box = soup.find('div', class_='col-lg-9')
-                return box
-            else:
-                retries += 1
-                log_message(f'{time_str} - Failed to connect to URL {url} - Status Code: {response.status_code} (Attempt {retries} of {max_retries})')
-                if retries < max_retries:
-                    log_message(f'{time_str} - Retrying in {retry_delay} seconds...')
-                    time.sleep(retry_delay)
-        except Exception as e:
-            retries += 1
-            log_message(f'{time_str} - Error while fetching URL {url}: {str(e)} (Attempt {retries} of {max_retries})')
-            if retries < max_retries:
-                log_message(f'{time_str} - Retrying in {retry_delay} seconds...')
-                time.sleep(retry_delay)
-
-    log_message(f'{time_str} - All attempts to fetch URL {url} failed after {max_retries} retries.')
-    return None
-#%%
-def extract_product_names(box):
+def extract_product_names(boxes):
     """
     Extracts product names from a BeautifulSoup object containing HTML elements.
 
@@ -98,13 +78,13 @@ def extract_product_names(box):
     """
     log_message(f'{time_str} - Extracting product names from div element')
     product_names = []
-    items = box.find_all('a', class_='title')
+    items = boxes.find_all('a', class_='title')
     for item in items:
         product_names.append(item.text.strip())
         log_message(f'{time_str} - Product name: {item.text.strip()}')
     return product_names
-#%%
-def extract_product_prices(box):
+
+def extract_product_prices(boxes):
     """
     Extracts product prices from a BeautifulSoup object containing HTML elements.
 
@@ -122,13 +102,13 @@ def extract_product_prices(box):
     """
     log_message(f'{time_str} - Extracting product prices from div element')
     product_prices = []
-    prices = box.find_all('h4', class_='price float-end card-title pull-right')
+    prices = boxes.find_all('h4', class_='price float-end card-title pull-right')
     for price in prices:
         product_prices.append(price.text.strip())
         log_message(f'{time_str} - Product price: {price.text.strip()}')
     return product_prices
 #%%
-def extract_product_descriptions(box):
+def extract_product_descriptions(boxes):
     """
     Extracts product descriptions from a BeautifulSoup object containing HTML elements.
 
@@ -146,13 +126,13 @@ def extract_product_descriptions(box):
     """
     log_message(f'{time_str} - Extracting product descriptions from div element')
     product_descriptions = []
-    descriptions = box.find_all('p', class_='description card-text')
+    descriptions = boxes.find_all('p', class_='description card-text')
     for description in descriptions:
         product_descriptions.append(description.text.strip())
         log_message(f'{time_str} - Product description: {description.text.strip()}')
     return product_descriptions
 #%%
-def extract_ratings(box):
+def extract_ratings(boxes):
     """
     Extracts the rating from a BeautifulSoup object containing HTML elements.
 
@@ -169,7 +149,7 @@ def extract_ratings(box):
     """
     log_message(f'{time_str} - Extracting ratings from products')
     ratings = []
-    rating_elements = box.find_all('p', {'data-rating': True})
+    rating_elements = boxes.find_all('p', {'data-rating': True})
     
     for rating_element in rating_elements:
         rating = rating_element.get('data-rating')
@@ -179,7 +159,7 @@ def extract_ratings(box):
     return ratings
            
 #%%    
-def extract_reviews(box):
+def extract_reviews(boxes):
     """
     Extracts the rating from a BeautifulSoup object containing HTML elements.
 
@@ -196,7 +176,7 @@ def extract_reviews(box):
     """
     log_message(f'{time_str} - Extracting reviews from products')
     reviews = []
-    review_elements = box.find_all('p', class_='review-count float-end')
+    review_elements = boxes.find_all('p', class_='review-count float-end')
     
     for review_element in review_elements:
         review_count = ''.join(filter(str.isdigit, review_element.text.strip()))
@@ -207,6 +187,23 @@ def extract_reviews(box):
         
 #%%    
 def join(product_names, product_prices, product_descriptions, ratings, reviews):
+    """
+    Creates a pandas DataFrame from the extracted product data.
+
+    This function combines the separate lists of product information into a single
+    DataFrame for easier manipulation and analysis.
+
+    Parameters:
+    product_names (list): A list of strings containing the names of the products.
+    product_prices (list): A list of strings containing the prices of the products.
+    product_descriptions (list): A list of strings containing the descriptions of the products.
+    ratings (list): A list of strings containing the ratings of the products.
+    reviews (list): A list of strings containing the number of reviews for each product.
+
+    Returns:
+    pandas.DataFrame: A DataFrame containing all the product information, with columns
+                      'Product Name', 'Product Price', 'Product Description', 'Rating', and 'Reviews'.
+    """
     log_message(f'{time_str} - Creating a DataFrame from extracted data')
     df = pd.DataFrame({
         'Product Name': product_names,
@@ -219,6 +216,23 @@ def join(product_names, product_prices, product_descriptions, ratings, reviews):
     return df
 #%%
 def load_to_csv(df, filename):
+    """
+    Saves a pandas DataFrame to a CSV file.
+
+    This function takes a pandas DataFrame and saves it to a CSV file at the specified
+    location. It logs the start and completion of the saving process.
+
+    Args:
+        df (pandas.DataFrame): The DataFrame to be saved to CSV.
+        filename (str): The path and name of the file where the CSV will be saved.
+
+    Returns:
+        None
+
+    Note:
+        This function does not return any value but performs the side effect of
+        saving the DataFrame to a file and logging the process.
+    """
     log_message(f'{time_str} - Saving DataFrame to CSV file: {filename}')
     # with pd.ExcelWriter(filename, mode='w') as writer:
     #     df.to_excel(writer, index=False, sheet_name='Products')
@@ -227,8 +241,29 @@ def load_to_csv(df, filename):
     
 #%%
 def main():
+    """
+    Main function to orchestrate the web scraping process.
+
+    This function performs the following steps:
+    1. Extracts data from web pages
+    2. Processes the extracted data (names, prices, descriptions, ratings, reviews)
+    3. Verifies data integrity
+    4. Combines data into a DataFrame
+    5. Saves the data to a CSV file
+
+    The function uses several helper functions to perform these tasks and logs the progress and any errors encountered.
+
+    Parameters:
+    None
+
+    Returns:
+    None
+
+    Raises:
+    Exception: If any error occurs during the execution of the function, it logs the error and re-raises it.
+    """
     try:
-        box = extract(url)
+        box = extract_data_from_pages(url)
         if box:
             product_names = extract_product_names(box)
             product_prices = extract_product_prices(box)
