@@ -30,6 +30,20 @@ def log_message(message):
         f.write(f'{current_time} - {message}\n')
 
 def extract_data_from_pages(url, max_pages=20):
+    """
+    This function extracts data from multiple pages of a website using Selenium and BeautifulSoup.
+    It navigates through the pages, waits for AJAX content to load, and extracts the required data.
+
+    Parameters:
+    url (str): The URL of the website to scrape.
+    max_pages (int, optional): The maximum number of pages to scrape. Default is 20.
+
+    Returns:
+    list: A list of BeautifulSoup objects representing the content of each page.
+
+    Raises:
+    Exception: If any error occurs during the scraping process.
+    """
     service = Service(driver_dir)
     driver = webdriver.Chrome(service=service)
     wait = WebDriverWait(driver, 10)
@@ -42,58 +56,58 @@ def extract_data_from_pages(url, max_pages=20):
             # Wait for the content to load
             time.sleep(3)
             log_message(f'Waiting for AJAX content to load on page {current_page}')
-            
+
             # Wait for the product container to be visible
             wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'col-lg-9')))
-            
+
             # Get the current page content
             soup = BeautifulSoup(driver.page_source, 'lxml')
             box = soup.find('div', class_='col-lg-9')
             if box:
                 boxes.append(box)
                 log_message(f'Scraped page {current_page} from {url}')
-            
+
             # Check if there's a next page button
             try:
                 # Wait for pagination container to be present
                 pagination = wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'pagination')))
-                
+
                 # Find all page buttons
                 buttons = driver.find_elements(By.CSS_SELECTOR, 
                     '.pagination button.page-link:not(.active)')
-                
+
                 # Find the next page button (should have text of current_page + 1)
                 next_button = None
                 for button in buttons:
                     if button.text.strip() == str(current_page + 1):
                         next_button = button
                         break
-                
+
                 if next_button:
                     # Scroll the button into view
                     driver.execute_script("arguments[0].scrollIntoView(true);", next_button)
                     time.sleep(1)
-                    
+
                     # Click the button
                     driver.execute_script("arguments[0].click();", next_button)
                     log_message(f'Clicked next button to page {current_page + 1}')
                     current_page += 1
-                    
+
                     # Wait for the page content to update
                     time.sleep(2)
                 else:
                     log_message("No more pages available")
                     break
-                    
+
             except Exception as e:
                 log_message(f"Error navigating to next page: {str(e)}")
                 break
-                
+
     except Exception as e:
         log_message(f"Error during page extraction: {str(e)}")
     finally:
         driver.quit()
-    
+
     return boxes
 
 def extract_product_names(boxes):
@@ -159,6 +173,23 @@ def extract_reviews(boxes):
     return reviews
 
 def join(product_names, product_prices, product_descriptions, ratings, reviews):
+    """
+    Create a pandas DataFrame from extracted product data.
+
+    This function combines various lists of product information into a single DataFrame.
+    It logs the creation process using a custom logging function.
+
+    Parameters:
+    product_names (list): A list of product names.
+    product_prices (list): A list of product prices.
+    product_descriptions (list): A list of product descriptions.
+    ratings (list): A list of product ratings.
+    reviews (list): A list of product review counts.
+
+    Returns:
+    pandas.DataFrame: A DataFrame containing the combined product information
+                      with columns for name, price, description, rating, and reviews.
+    """
     log_message(f'Creating a DataFrame from extracted data')
     df = pd.DataFrame({
         'Product Name': product_names,
@@ -171,11 +202,50 @@ def join(product_names, product_prices, product_descriptions, ratings, reviews):
     return df
 
 def load_to_csv(df, filename):
+    """
+    Save a pandas DataFrame to a CSV file.
+
+    This function takes a DataFrame and saves it to a specified CSV file. It logs the
+    start and completion of the saving process.
+
+    Parameters:
+    df (pandas.DataFrame): The DataFrame to be saved to CSV.
+    filename (str): The path and name of the CSV file where the DataFrame will be saved.
+
+    Returns:
+    None
+
+    Side effects:
+    - Creates or overwrites a CSV file at the specified filename.
+    - Logs messages about the saving process.
+    """
     log_message(f'Saving DataFrame to CSV file: {filename}')
     df.to_csv(filename, index=False)
     log_message(f'DataFrame saved to csv file: {filename}')
 
 def main():
+    """
+    Execute the main web scraping process.
+
+    This function orchestrates the entire web scraping operation. It extracts data from web pages,
+    processes the extracted information, and saves it to a CSV file. The function handles potential
+    errors and logs the progress of the operation.
+
+    The function performs the following steps:
+    1. Extract data from web pages
+    2. Extract specific information (names, prices, descriptions, ratings, reviews)
+    3. Verify data integrity
+    4. Join the extracted data into a DataFrame
+    5. Save the DataFrame to a CSV file
+
+    No parameters are required as it uses global variables defined elsewhere in the script.
+
+    Returns:
+        None
+
+    Raises:
+        Exception: Any exception that occurs during the scraping process is logged and re-raised.
+    """
     try:
         boxes = extract_data_from_pages(url)
         if boxes:
