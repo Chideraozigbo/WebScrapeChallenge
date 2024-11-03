@@ -7,6 +7,7 @@ import pandas as pd
 import re 
 
 
+
 #%%
 # Constants for the website to scrape and logging
 log_file = "/Users/user/Documents/Webscraping Project/website2/web_scrap_log.txt"
@@ -29,6 +30,7 @@ def log_message(message):
     Args:
         message (str): The message to be logged.
     """
+    time_str = now.strftime(time_format)
     with open(log_file, 'a') as f:
         f.write(f'{time_str} - {message}\n')
 #%%
